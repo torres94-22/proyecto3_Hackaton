@@ -21,6 +21,6 @@ typed-ast==1.4.1
 urllib3==1.25.8
 virtualenv==20.0.10
 wrapt==1.11.2
-zipp==3.1.0
+zipp==3.19.1
 PyMySQL==0.9.3
 pytube==9.6.0
